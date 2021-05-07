@@ -9,7 +9,7 @@ const App = () => {
         <div>
             <label for="name" className="label">Enter e-mail: </label>
             <input id="name" type="text"/>
-            <button style={style}>{ buttonText.text }</button>
+            <button style={style}>{buttonText.text}</button>
         </div>
     )
 }
